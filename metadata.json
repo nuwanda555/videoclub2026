@@ -1,0 +1,7 @@
+{
+  "name": "CineMaster - Gestión de Videoclub",
+  "description": "Una aplicación elegante y completa para la gestión de videoclubes tradicionales, con control de inventario, clientes, préstamos y asistencia inteligente mediante IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
